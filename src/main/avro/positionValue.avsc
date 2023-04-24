@@ -1,0 +1,9 @@
+{
+   "type" : "record",
+   "namespace" : "Giuseppe",
+   "name" : "Position",
+   "fields" : [
+      { "name" : "X" , "type" : "int" },
+      { "name" : "Y" , "type" : "int" }
+   ]
+}
