@@ -40,7 +40,6 @@ dependencies {
     implementation 'org.apache.kafka:kafka-clients:3.3.2'
     implementation 'org.apache.kafka:kafka-streams:3.3.2'
     implementation 'io.confluent:kafka-streams-avro-serde:7.3.3'
-//    solved by https://github.com/productboardlabs/jackson-kafka-avro-serializer
     implementation 'org.apache.avro:avro:1.11.1'
     implementation 'org.slf4j:slf4j-log4j12:2.0.7'
 

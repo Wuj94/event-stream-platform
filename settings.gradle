@@ -5,4 +5,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = 'kafka-producer'
+rootProject.name = 'event-stream-platform'
